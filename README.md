@@ -1,1 +1,1 @@
-# SoloLearn
+SoloLearn problems and solutions.
